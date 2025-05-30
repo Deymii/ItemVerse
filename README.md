@@ -44,7 +44,7 @@ A desktop application developed using **Java Swing and AWT** that allows users t
 ## 🖼️ Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](images/home.png)
+![Home Screen](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Home%20Page.png)
 
 ### 👤 Profile Update
 ![Profile Update](images/profile_update.png)
