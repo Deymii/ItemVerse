@@ -41,13 +41,32 @@ A desktop application developed using **Java Swing and AWT** that allows users t
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Project Snapshots
 
-### 🏠 Home Screen
+### 🏠 Home Frame
 ![Home Screen](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Home%20Page.png)
 
-### 👤 Profile Update
-![Profile Update](images/profile_update.png)
+### Log in
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/First%20Page.png)
 
-### 📝 Add New Borrowed Item
-![Add Item](images/add_borrowed_item.png)
+### Sign up 
+![Add Item](https://github.com/Deymii/ItemVerse/blob/f7279b345078d46f8d433dc8291ef7f34a232937/project/Images/sign%20up.png)
+
+### 👤 Profile Update
+![Profile Update](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/update%20information.png)
+
+### 📝 Add New Item (Borrowed, Rented and Lost)
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Add%20Item.png)
+
+### Display My Items Frame
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Display%20my%20items.png)
+
+### Display Other's Items Frame
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Others%20Items.png)
+
+### Light Theme
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Light%20Theme.png)
+
+### Colorful Theme
+![Add Item](https://github.com/Deymii/ItemVerse/blob/c996150a53af90264f09b90e0ab4eef589e204ba/project/Images/Colorful%20Theme.png)
+
